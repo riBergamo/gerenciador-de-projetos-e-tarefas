@@ -12,8 +12,6 @@ Este sistema permite o cadastro e gerenciamento de projetos, com suas respectiva
 
 **🚀 Tecnologias Utilizadas:**
 
-**Back-end**
-
 - Java 17 + Spring Boot
 - PostgreSQL
 - React
