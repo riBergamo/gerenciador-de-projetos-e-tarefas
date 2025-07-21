@@ -6,7 +6,7 @@ Sistema completo para organização de projetos e tarefas, desenvolvido com Spri
 
 Este sistema permite o cadastro e gerenciamento de projetos, com suas respectivas tarefas. Ele foi construído com foco em aprendizado prático e aplicação de boas práticas de desenvolvimento.
 
-**Diagrama:**
+**💬 Diagrama:**
 
 <img width="600" height="448" alt="gerenciador" src="https://github.com/user-attachments/assets/25dac5ef-c3c9-4d48-a49c-eddc2791e0d3" /><br>
 
