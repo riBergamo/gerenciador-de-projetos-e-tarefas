@@ -33,12 +33,19 @@ Este sistema permite o cadastro e gerenciamento de projetos, com suas respectiva
 cd backend
 ./mvnw spring-boot:run
 ```
+```bash
+#Frontend
+cd frontend
+**npm** install
+**npm** run dev
+```
 ```yaml
 #Configurações
 - PostgreSQL rodando na porta 5432
 - Banco `integrado-db`
 - JWT configurado no `application.properties`
 ```
+
 
 
 
