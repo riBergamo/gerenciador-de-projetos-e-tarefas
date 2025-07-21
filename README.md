@@ -1,4 +1,4 @@
-**Gerenciador de Projetos e Tarefas**
+# 💻 Gerenciador de Projetos e Tarefas
 
 Sistema completo para organização de projetos e tarefas, desenvolvido com Spring Boot e React.
 
