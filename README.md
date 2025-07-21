@@ -36,8 +36,8 @@ cd backend
 ```bash
 #Frontend
 cd frontend
-**npm** install
-**npm** run dev
+npm install
+npm run dev
 ```
 ```yaml
 #Configurações
